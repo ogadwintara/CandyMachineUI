@@ -1,10 +1,14 @@
 /* Customize your main colors in :root variables */
 :root {
-  --main-background-color: #343A50;
-  --card-background-color: #51576D;
-  --card-background-lighter-color: #7A7F92;
+  --main-background-color: #14084d;
+  --card-background-color: #68b1db;
+  --card-background-lighter-color: #64f1f1;
   --main-text-color:#F7F6F4;
-  --title-text-color:#3CBA8B;
+  --title-text-color:#ffffff;
+}
+
+a{
+  color: White; text-decoration: none;
 }
 
 body{
