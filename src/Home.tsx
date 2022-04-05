@@ -149,7 +149,7 @@ const SolExplorerLink = styled.a`
   outline: none;
   text-decoration: none;
   text-size-adjust: 100%;
-  
+
   :hover{
     border-bottom: 2px solid var(--title-text-color);
   }
@@ -453,7 +453,7 @@ const Home = (props: HomeProps) => {
                             <ConnectButton>Connect Wallet</ConnectButton>}
                     </Wallet>
                 </WalletContainer>
-                <ShimmerTitle>MINT DATE: 5 APRIL 2022!</ShimmerTitle>
+                <ShimmerTitle>MINT DATE: 9 APRIL 2022!</ShimmerTitle>
                 <br/>
 
 
