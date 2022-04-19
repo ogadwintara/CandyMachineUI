@@ -453,7 +453,7 @@ const Home = (props: HomeProps) => {
                             <ConnectButton>Connect Wallet</ConnectButton>}
                     </Wallet>
                 </WalletContainer>
-                <ShimmerTitle>MINT DATE: 9 APRIL 2022!</ShimmerTitle>
+                <ShimmerTitle>MINT DATE: 23 APRIL 2022!</ShimmerTitle>
                 <br/>
 
 
